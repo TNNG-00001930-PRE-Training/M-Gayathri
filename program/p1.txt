@@ -1,5 +1,0 @@
-string=input().split()
-print(string)
-for word in string:
-  if len(word)%2==0:
-    print(word)
