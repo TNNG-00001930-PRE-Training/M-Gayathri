@@ -1,7 +1,7 @@
 import logging
 logger = logging.getLogger('example_logger')
 logger.setLevel(logging.DEBUG)
-file_handler=logging.FileHandler('Log.py')
+file_handler=logging.FileHandler('revature_training.py')
 file_handler.setLevel(logging.ERROR)
 formatter=logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 file_handler.setFormatter(formatter)

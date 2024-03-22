@@ -1,0 +1,11 @@
+
+https://www.machinelearningplus.com/python/python-logging-guide/#google_vignette
+
+https://www.machinelearningplus.com/python/python-regex-tutorial-examples/
+
+https://teams.microsoft.com/l/message/19:meeting_M2JmNTQzOWQtOTYyMS00MzUwLTljODYtM2Y5ODVmZDhjZjU5@thread.v2/1711020504922?context=%7B%22contextType%22%3A%22chat%22%7D
+
+
+https://docs.python.org/3/library/unittest.html
+
+https://teams.microsoft.com/l/message/19:meeting_M2JmNTQzOWQtOTYyMS00MzUwLTljODYtM2Y5ODVmZDhjZjU5@thread.v2/1711100903621?context=%7B%22contextType%22%3A%22chat%22%7D
